@@ -3,7 +3,6 @@ C:\Users\jonat\Documents\Visual Studio 2013\Projects\3DeT_Fichas\Modelos\bin\Deb
 C:\Users\jonat\Documents\Visual Studio 2013\Projects\3DeT_Fichas\Modelos\obj\Debug\DTL.csprojResolveAssemblyReference.cache
 C:\Users\jonat\Documents\Visual Studio 2013\Projects\3DeT_Fichas\Modelos\obj\Debug\Modelos.dll
 C:\Users\jonat\Documents\Visual Studio 2013\Projects\3DeT_Fichas\Modelos\obj\Debug\Modelos.pdb
-C:\Users\jonat\Documents\Visual Studio 2013\Projects\3DeT_Fichas\DTL\obj\Debug\DTL.csprojResolveAssemblyReference.cache
 C:\Users\jonat\Documents\Visual Studio 2013\Projects\3DeT_Fichas\DTL\bin\Debug\DTL.dll
 C:\Users\jonat\Documents\Visual Studio 2013\Projects\3DeT_Fichas\DTL\bin\Debug\DTL.pdb
 C:\Users\jonat\Documents\Visual Studio 2013\Projects\3DeT_Fichas\DTL\obj\Debug\DTL.dll
