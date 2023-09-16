@@ -1,0 +1,7 @@
+C:\Users\jonat\Documents\Visual Studio 2013\Projects\3DeT_Fichas\Modelos\bin\Debug\Modelos.dll
+C:\Users\jonat\Documents\Visual Studio 2013\Projects\3DeT_Fichas\Modelos\bin\Debug\Modelos.pdb
+C:\Users\jonat\Documents\Visual Studio 2013\Projects\3DeT_Fichas\Modelos\bin\Debug\DAL.dll
+C:\Users\jonat\Documents\Visual Studio 2013\Projects\3DeT_Fichas\Modelos\bin\Debug\DAL.pdb
+C:\Users\jonat\Documents\Visual Studio 2013\Projects\3DeT_Fichas\Modelos\obj\Debug\Modelos.csprojResolveAssemblyReference.cache
+C:\Users\jonat\Documents\Visual Studio 2013\Projects\3DeT_Fichas\Modelos\obj\Debug\Modelos.dll
+C:\Users\jonat\Documents\Visual Studio 2013\Projects\3DeT_Fichas\Modelos\obj\Debug\Modelos.pdb

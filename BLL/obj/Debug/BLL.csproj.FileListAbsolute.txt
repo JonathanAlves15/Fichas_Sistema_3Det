@@ -1,0 +1,12 @@
+C:\Users\jonat\Documents\Visual Studio 2013\Projects\3DeT_Fichas\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\jonat\Documents\Visual Studio 2013\Projects\3DeT_Fichas\BLL\bin\Debug\BLL.dll
+C:\Users\jonat\Documents\Visual Studio 2013\Projects\3DeT_Fichas\BLL\bin\Debug\BLL.pdb
+C:\Users\jonat\Documents\Visual Studio 2013\Projects\3DeT_Fichas\BLL\bin\Debug\DAL.dll
+C:\Users\jonat\Documents\Visual Studio 2013\Projects\3DeT_Fichas\BLL\bin\Debug\DAL.pdb
+C:\Users\jonat\Documents\Visual Studio 2013\Projects\3DeT_Fichas\BLL\obj\Debug\BLL.dll
+C:\Users\jonat\Documents\Visual Studio 2013\Projects\3DeT_Fichas\BLL\obj\Debug\BLL.pdb
+C:\Users\jonat\Documents\Visual Studio 2013\Projects\3DeT_Fichas\BLL\bin\Debug\System.Data.SQLite.dll
+C:\Users\jonat\Documents\Visual Studio 2013\Projects\3DeT_Fichas\BLL\bin\Debug\System.Data.SQLite.pdb
+C:\Users\jonat\Documents\Visual Studio 2013\Projects\3DeT_Fichas\BLL\bin\Debug\System.Data.SQLite.xml
+C:\Users\jonat\Documents\Visual Studio 2013\Projects\3DeT_Fichas\BLL\bin\Debug\DTL.dll
+C:\Users\jonat\Documents\Visual Studio 2013\Projects\3DeT_Fichas\BLL\bin\Debug\DTL.pdb
