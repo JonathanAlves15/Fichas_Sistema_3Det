@@ -18,7 +18,7 @@ namespace UI
         private int id;
         ListBox ltb;
         string operacao = "insert";
-        
+
         public FichaUI(int id, ListBox ltb)
         {
             this.id = id;
@@ -139,6 +139,8 @@ namespace UI
 
             else
             {
+                System.Threading.Thread.Sleep(1000);
+
                 if (!fichasBll.UpdateFicha(ficha, vantagens, desvantagens, tecnicas))
                     MessageBox.Show("O nome do personagem não pode ser vazio.", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 else
