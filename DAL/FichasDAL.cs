@@ -131,6 +131,10 @@ namespace DAL
                 cmd.Parameters.AddWithValue("@pm_max", ficha.MaxPm);
                 cmd.Parameters.AddWithValue("@inventario", ficha.Inventario);
                 con.Open();
+
+                //Por algum motivo previne o erro database is locked
+                con.Busy += (x, y) => {};
+
                 cmd.ExecuteNonQuery();
                 con.Close();
 
